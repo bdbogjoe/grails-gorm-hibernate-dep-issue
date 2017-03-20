@@ -34,7 +34,6 @@ dependencies {
     compile "org.grails:grails-dependencies"
     compile "org.grails:grails-web-boot"
 
-
 	compile "org.grails.plugins:hibernate5"
 
     compile "org.grails.plugins:cache"
